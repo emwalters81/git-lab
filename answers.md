@@ -47,3 +47,12 @@ Changes to be committed:
 	new file:   answers.md
 
 Answer 7:
+On branch main
+nothing to commit, working tree clean
+
+Answer 8:
+commit 8e8170e450c7501d058f1d666a444e2037b4d74c (HEAD -> main)
+Author: emwalters81 <emwalters81@outlook.com>
+Date:   Tue Jan 21 19:28:25 2025 -0500
+
+    Inital commit
