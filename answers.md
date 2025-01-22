@@ -65,3 +65,15 @@ Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
 	modified:   answers.md
 
+Answer 10: 
+No, because changes that are made locally need to be pushed to Github to be viewed online.
+
+Answer 11: 
+The push was rejected because Github cannot take in input from multiple repositories at one time. 
+
+Answer 12:
+Yes, git pull allowed for changes to my local version.
+
+Answer 13:
+.		..		.git		.gitignore	README.md
+
