@@ -56,3 +56,12 @@ Author: emwalters81 <emwalters81@outlook.com>
 Date:   Tue Jan 21 19:28:25 2025 -0500
 
     Inital commit
+
+Answer 9:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   answers.md
+
